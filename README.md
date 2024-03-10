@@ -7,7 +7,7 @@
 </p>
 
 > Atualmente trabalho como <strong>Jr Front-End Developer</strong>. Comecei minha carreira na área de suporte, mas logo vi que minha paixão era o desenvolvimento de software. 
-> Gosto de ouvir música 🎵, filmes de ação 💣 e jogos competitivos 🎮
+> Gosto de ouvir música 🎵, filmes de ação 💣, jogos competitivos 🎮 e pratico Muay Thai nas horas livres 🥊
 
 ##
 ### Linguagens e Ferramentas
